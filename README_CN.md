@@ -4,9 +4,6 @@
 >
 > 修复制作超过2G的SGSI无法上传Release的问题
 >
-> 支持自定义精简功能
->
-> 当前版本: [v11](https://github.com/xiaoxindada/SGSI-build-tool/tree/11)
 >
 > 注意：如果提示失败并在 下载ROM... 时出现 Error: Process completed with exit code 127. 系服务器网络问题，请重试
 
@@ -31,11 +28,6 @@
    
    点击Run workflow绿色按钮即可开始制作
 
-## 个性化配置
-
-1. 自定义精简功能
-   
-   修改apps_clean文件夹下对应系统的精简脚本，请自行参照修改
 
 ## 后续步骤
 
